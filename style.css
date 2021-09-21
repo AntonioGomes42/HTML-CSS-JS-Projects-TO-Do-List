@@ -77,7 +77,7 @@ form button:hover{
 }
 
 .todo li{
-    /*PUSH THE BOTTONS TO THE END*/
+    /*PUSH THE BUTTONS TO THE END*/
     flex: 1;
 }
 
